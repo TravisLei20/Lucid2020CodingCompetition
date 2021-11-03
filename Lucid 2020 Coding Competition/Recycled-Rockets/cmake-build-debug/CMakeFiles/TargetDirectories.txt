@@ -1,0 +1,3 @@
+C:/Users/travi/Desktop/Club/first_time/cmake-build-debug/CMakeFiles/first_time.dir
+C:/Users/travi/Desktop/Club/first_time/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/travi/Desktop/Club/first_time/cmake-build-debug/CMakeFiles/rebuild_cache.dir
