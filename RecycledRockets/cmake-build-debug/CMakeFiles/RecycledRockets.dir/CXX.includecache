@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/travi/Desktop/Competative Programming Club/Lucid2020CodingCompetition/RecycledRockets/main.cpp
+iostream
+-
+vector
+-
+
