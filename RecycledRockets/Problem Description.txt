@@ -1,0 +1,85 @@
+You have a list of spare rocket parts and their quantities that are sitting around in a warehouse. You also have a list with all the parts (and quantities) required to build a new rocket. Using only the spare parts in the warehouse, how many rockets can you build?
+
+Input Format
+
+<number of different types of parts>
+<required amount of part 1 for rocket> <spare amount of part 1 in warehouse>
+<required amount of part 2 for rocket> <spare amount of part 2 in warehouse>
+<required amount of part 3 for rocket> <spare amount of part 3 in warehouse>
+...
+Constraints
+
+Where n is the number of different types of parts, 2 <= n <= 5000000
+Where p is the required or spare amount for any given part, 1 <= r <= 2,147,483,647
+Output Format
+
+<how many rockets can be built>
+
+Sample Input 0
+
+3
+2 19
+4 12
+7 31
+
+Sample Output 0
+
+3
+
+Sample Input 1
+
+50
+75 114921
+59 26156
+136 212310
+85 170000
+147 294000
+3 2066
+85 161979
+127 219721
+7 7434
+116 187408
+34 68000
+81 162000
+71 101818
+77 86340
+57 73567
+15 23347
+115 230000
+98 61561
+65 98600
+63 126000
+146 292000
+40 50445
+7 13516
+85 136045
+16 8081
+8 16000
+118 236000
+3 5261
+85 77172
+101 122389
+101 110351
+79 158000
+12 19767
+80 160000
+52 83072
+68 136000
+39 60442
+99 198000
+146 292000
+43 42334
+49 70717
+88 146327
+66 100191
+12 19309
+64 121984
+35 39771
+13 25995
+1 1765
+5 8438
+144 288000
+
+Sample Output 1
+
+443
