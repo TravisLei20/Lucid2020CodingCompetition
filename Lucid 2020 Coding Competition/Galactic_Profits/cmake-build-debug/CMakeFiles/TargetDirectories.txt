@@ -1,3 +1,0 @@
-C:/Users/travi/Desktop/Club/Galactic_Profits/cmake-build-debug/CMakeFiles/Galactic_Profits.dir
-C:/Users/travi/Desktop/Club/Galactic_Profits/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/travi/Desktop/Club/Galactic_Profits/cmake-build-debug/CMakeFiles/rebuild_cache.dir

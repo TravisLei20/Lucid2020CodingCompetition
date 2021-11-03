@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Galactic_Profits.dir/objects.a
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\Galactic_Profits.dir/objects.a @CMakeFiles\Galactic_Profits.dir\objects1.rsp
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Galactic_Profits.dir/objects.a -Wl,--no-whole-archive -o Galactic_Profits.exe -Wl,--out-implib,libGalactic_Profits.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Galactic_Profits.dir\linklibs.rsp
