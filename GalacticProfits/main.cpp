@@ -1,5 +1,7 @@
 #include <iostream>
 #include <vector>
+#include <string>
+#include <cctype>
 
 using namespace std;
 
@@ -10,11 +12,13 @@ int main() {
 
     int myArray[stockNum][months];
 
-
+    string thing;
 
     for (int i = 0; i < stockNum; ++i) {
+        cin >> thing;
         for (int j = 0; j < months; ++j) {
             cin >> myArray[i][j];
+            cout << myArray[i][j] << endl;
         }
     }
 
